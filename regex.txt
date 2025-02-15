@@ -1,6 +1,0 @@
-// This is the imformation to be extracted
-
-m for(key in myProfile)
-    function regEmail() {
-      return                 
-    }
